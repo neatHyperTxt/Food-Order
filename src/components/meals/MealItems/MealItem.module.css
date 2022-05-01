@@ -1,0 +1,19 @@
+.meal
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #ccc;
+}
+.description
+{
+    margin-top: -0.5rem;
+    font-style: italic;
+    margin-bottom:0.5rem;
+}
+.price
+{
+    color: green;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
